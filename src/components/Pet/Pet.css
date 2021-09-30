@@ -1,0 +1,21 @@
+.my-card{
+   width: 270px;
+   margin-bottom: 30px;
+}
+.imgDog{
+    height: 200px;
+    object-fit: cover;
+    
+}
+.breeds{
+    color: darkcyan;
+}
+.social{
+    cursor: pointer;
+}
+.social:hover{
+    background: #000;
+    color: #fff;
+    border-radius: 20%;
+    transition: 0.5s;
+}

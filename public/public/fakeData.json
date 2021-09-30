@@ -1,0 +1,83 @@
+[
+    {
+      "_id": "1",
+      "img":"https://media.istockphoto.com/photos/german-shepherd-dog-picture-id806942944?k=20&m=806942944&s=612x612&w=0&h=4V4qVOMAQW1Rj3P-dyjZOcL8chBkXVOMWdSWJMBD9W4=",
+      "price": 89.62,
+      "age": 6,
+      "breeds" :"German Shepherd",
+      "life_span":"10.5 years",
+      "weight": "8 kg"
+    },
+    {
+      "_id": "2",
+      "img":"https://www.cesarsway.com/wp-content/uploads/2019/02/Bulldog-1024x819.jpeg",
+      "price": 90.45,
+      "age": 4,
+      "breeds" :"Bulldog",
+      "life_span":"10 years",
+      "weight": "8.5 kg"
+    },
+    {
+      "_id": "3",
+      "img":"https://www.petmd.com/sites/default/files/2020-11/picture-of-golden-retriever-dog_0.jpg",
+      "price": 54.03,
+      "age": 5,
+      "breeds" :"Golden Retriever",
+      "life_span":"11-12 years",
+      "weight": "7 kg"
+    },
+    {
+      "_id": "4",
+      "img":"https://www.thesprucepets.com/thmb/Ua8jxHx-kU_pSBZOnhdRJEoVXi8=/4252x2835/filters:fill(auto,1)/GettyImages-1153019783-212f3a30f2874e01b82582f65010d569.jpg",
+      "price": 59.03,
+      "age": 3,
+      "breeds" :"Poodle",
+      "life_span":"12-15 years",
+      "weight": "5 kg"
+    },
+    {
+      "_id": "5",
+      "img":"https://blog.myollie.com/content/images/2021/05/cute-Shih-Tzu-with-mud-on-his-fur-sticks-tongue-out-.jpg",
+      "price": 60.03,
+      "age": 5,
+      "breeds" :"Shih Tzu",
+      "life_span":"10-16 years",
+      "weight": "4 kg"
+    },
+    {
+      "_id": "6",
+      "img":"https://www.rover.com/blog/wp-content/uploads/2019/09/Pug-min-1.jpg",
+      "price": 54.03,
+      "age": 5,
+      "breeds" :"Pug Dog",
+      "life_span":"12-15 years",
+      "weight": "5 kg"
+    },
+    {
+      "_id": "7",
+      "img":"https://i.pinimg.com/736x/92/52/72/92527227cbd1ca73a924ed952bc8540e.jpg",
+      "price": 54.03,
+      "age": 5,
+      "breeds" :"English Mastiff",
+      "life_span":"10-12 years",
+      "weight": "6 kg"
+    },
+    {
+      "_id": "8",
+      "img":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F03%2F02%2Fborder-collie-green-field-268313239-2000.jpeg",
+      "price": 54.03,
+      "age": 5,
+      "breeds" :"Border Collie",
+      "life_span":"13-16 years",
+      "weight": "12.2-19 kg"
+    },
+    {
+      "_id": "9",
+      "img":"https://media-be.chewy.com/wp-content/uploads/2021/06/14090602/EnglishCockerSpaniel-FeaturedImage.jpg",
+      "price": 54.03,
+      "age": 5,
+      "breeds" :"Cocker Spaniel",
+      "life_span":"13-16 years",
+      "weight": "12-15 kg"
+    }
+  ]
